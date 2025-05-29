@@ -1,4 +1,5 @@
 rojo
 azul
 verde
-
+amarillo
+naranja
